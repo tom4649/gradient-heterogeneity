@@ -1,0 +1,10 @@
+cb:
+  sgd_momentum:
+    lr: 0.01
+  signsgd_momentum:
+    lr: 1.0e-05
+rte:
+  sgd_momentum:
+    lr: 0.001
+  signsgd_momentum:
+    lr: 1.0e-05

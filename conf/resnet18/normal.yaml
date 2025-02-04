@@ -1,0 +1,26 @@
+fgvc_aircraft:
+  adam:
+    lr: 0.0001
+  rmsprop:
+    lr: 0.0001
+  sgd:
+    lr: 0.1
+  sgd_momentum:
+    lr: 0.01
+  signsgd:
+    lr: 0.0001
+  signsgd_momentum:
+    lr: 1.0e-05
+flowers102:
+  adam:
+    lr: 0.0001
+  rmsprop:
+    lr: 0.0001
+  sgd:
+    lr: 0.1
+  sgd_momentum:
+    lr: 0.01
+  signsgd:
+    lr: 0.0001
+  signsgd_momentum:
+    lr: 1.0e-05

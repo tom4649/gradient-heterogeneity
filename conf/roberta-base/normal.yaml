@@ -1,0 +1,91 @@
+boolq:
+  adam:
+    lr: 1.0e-05
+  rmsprop:
+    lr: 1.0e-05
+  sgd:
+    lr: 0.1
+  sgd_momentum:
+    lr: 0.01
+  signsgd:
+    lr: 1.0e-05
+  signsgd_momentum:
+    lr: 1.0e-05
+cb:
+  adam:
+    lr: 0.0001
+  rmsprop:
+    lr: 1.0e-05
+  sgd:
+    lr: 0.1
+  sgd_momentum:
+    lr: 0.01
+  signsgd:
+    lr: 1.0e-05
+  signsgd_momentum:
+    lr: 1.0e-05
+cola:
+  adam:
+    lr: 1.0e-05
+  rmsprop:
+    lr: 1.0e-05
+  sgd:
+    lr: 0.01
+  sgd_momentum:
+    lr: 0.001
+  signsgd:
+    lr: 0.0001
+  signsgd_momentum:
+    lr: 1.0e-05
+mrpc:
+  adam:
+    lr: 1.0e-05
+  rmsprop:
+    lr: 1.0e-05
+  sgd:
+    lr: 0.1
+  sgd_momentum:
+    lr: 0.01
+  signsgd:
+    lr: 1.0e-05
+  signsgd_momentum:
+    lr: 1.0e-05
+rte:
+  adam:
+    lr: 1.0e-05
+  rmsprop:
+    lr: 1.0e-05
+  sgd:
+    lr: 0.01
+  sgd_momentum:
+    lr: 0.001
+  signsgd:
+    lr: 1.0e-05
+  signsgd_momentum:
+    lr: 1.0e-06
+sst2:
+  adam:
+    lr: 1.0e-05
+  rmsprop:
+    lr: 1.0e-05
+  sgd:
+    lr: 0.1
+  sgd_momentum:
+    lr: 0.01
+  signsgd:
+    lr: 1.0e-05
+  signsgd_momentum:
+    lr: 1.0e-05
+wic:
+  adam:
+    lr: 1.0e-05
+  rmsprop:
+    lr: 1.0e-05
+  sgd:
+    lr: 0.01
+  sgd_momentum:
+    lr: 0.001
+  signsgd:
+    lr: 1.0e-05
+  signsgd_momentum:
+    lr: 1.0e-05
